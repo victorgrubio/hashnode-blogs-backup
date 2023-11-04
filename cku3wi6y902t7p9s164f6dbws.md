@@ -6,7 +6,6 @@ datePublished: Tue Sep 28 2021 09:39:00 GMT+0000 (Coordinated Universal Time)
 cuid: cku3wi6y902t7p9s164f6dbws
 slug: how-to-create-a-postman-collection-from-openapi-docs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697362183477/d98283fa-2659-4bc5-885e-5e3a6df1cd91.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1632822733716/3xPF9ugaz.png
 tags: web-development, documentation, apis, rest-api, hashnodebootcamp
 
 ---
