@@ -212,7 +212,7 @@ Reach out on [Twitter](https://twitter.com/VictorGarciaDev) to find more valuabl
 
 ### References
 
-* [Complete Series](https://www.victorgarciar.com/series/api-design)
+* [Complete Series](https://www.victorgarciar.com/series/api-design-development)
     
 * [BlazeMeter article](https://www.blazemeter.com/blog/how-get-started-jmeter-installation-test-plans)
     
