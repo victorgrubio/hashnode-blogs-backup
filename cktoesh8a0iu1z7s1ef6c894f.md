@@ -6,7 +6,6 @@ datePublished: Fri Sep 17 2021 13:40:01 GMT+0000 (Coordinated Universal Time)
 cuid: cktoesh8a0iu1z7s1ef6c894f
 slug: unleash-your-learning-potential-through-writing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697363053585/da915f36-cc66-4b6e-893b-3308a1a343ef.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697363225518/102165f8-d24d-48ac-9b22-592fed6abeac.png
 tags: writing, learning, technical-writing-1, hashnodebootcamp, learning-journey
 
 ---
